@@ -1,0 +1,2681 @@
+(I1762697510
+I0
+I1
+S'server'
+p0
+S'\x04\x00\x00\x04'
+p1
+tp2
+.(I1537005214
+I0
+I1
+S'client'
+p0
+S'Database checksum: 532403\n'
+p1
+tp2
+.(I1537005214
+I0
+I2
+S'server'
+p0
+S'1\n'
+p1
+tp2
+.(I1537005214
+I0
+I3
+S'client'
+p0
+S'Airport: UDB\nConnections: FZE (97, 60), ATN (79, 43)'
+p1
+tp2
+.(I1537005214
+I0
+I4
+S'client'
+p0
+S', EHV (112, 163), LHQ (80, 35)\n\nAirport: TUT\nConnections: CCH (229, 37), LHQ (238, 175), EHV (141, 17)'
+p1
+tp2
+.(I1537005214
+I0
+I5
+S'client'
+p0
+S'\n\nAirport: ABI\nConnections: UDB (173, 77)'
+p1
+tp2
+.(I1537005214
+I0
+I6
+S'client'
+p0
+S', TKQ (207, 36), NII (165, 171)'
+p1
+tp2
+.(I1537005214
+I0
+I7
+S'client'
+p0
+S', IJW (99, 213)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I8
+S'client'
+p0
+S'Airport: IRH\nConnections: TKQ (132, 118), FYH (129, 158)'
+p1
+tp2
+.(I1537005214
+I0
+I9
+S'client'
+p0
+S', WGQ (160, 145), ATN (232, 50), LHQ (20, 186), CCH (23, 236)'
+p1
+tp2
+.(I1537005214
+I0
+I10
+S'client'
+p0
+S', UAJ (143, 183)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I11
+S'client'
+p0
+S'Airport: EHV\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I12
+S'client'
+p0
+S'FYH (128, 213), IJW (121, 98)'
+p1
+tp2
+.(I1537005214
+I0
+I13
+S'client'
+p0
+S', NII (122, 59), ATN (184, 172), TUT (235, 199), UAJ (67, 245)'
+p1
+tp2
+.(I1537005214
+I0
+I14
+S'client'
+p0
+S', LHQ (92, 134), WGQ (254, 199)'
+p1
+tp2
+.(I1537005214
+I0
+I15
+S'client'
+p0
+S', AES (36, 204), EHV (235, 242)\n\nAirport: FYH\n'
+p1
+tp2
+.(I1537005214
+I0
+I16
+S'client'
+p0
+S'Connections: AES (200, 247)'
+p1
+tp2
+.(I1537005214
+I0
+I17
+S'client'
+p0
+S'\n\nAirport: UAJ\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I18
+S'client'
+p0
+S'TUT (227, 229), IJW (154, 247)'
+p1
+tp2
+.(I1537005214
+I0
+I19
+S'client'
+p0
+S', TKQ (113, 73), QPX (102, 146)'
+p1
+tp2
+.(I1537005214
+I0
+I20
+S'client'
+p0
+S', CHV (155, 40), ABI (89, 132), FZE (177, 180)'
+p1
+tp2
+.(I1537005214
+I0
+I21
+S'client'
+p0
+S', WGQ (168, 168), UAJ (91, 157)'
+p1
+tp2
+.(I1537005214
+I0
+I22
+S'client'
+p0
+S', NII (207, 24)\n\nAirport: QPX\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I23
+S'client'
+p0
+S'TKQ (221, 204), NII (62, 66)'
+p1
+tp2
+.(I1537005214
+I0
+I24
+S'client'
+p0
+S', LHQ (1, 78), XPB (13, 172), AUE (237, 184)'
+p1
+tp2
+.(I1537005214
+I0
+I25
+S'client'
+p0
+S', UDB (86, 69)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I26
+S'client'
+p0
+S'Airport: WGQ\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I27
+S'client'
+p0
+S'NII (186, 160), FYH (229, 44), AES (57, 26), ATN (39, 224)'
+p1
+tp2
+.(I1537005214
+I0
+I28
+S'client'
+p0
+S', FZE (79, 193), QPX (170, 123), UAJ (220, 177), ABI (198, 51)'
+p1
+tp2
+.(I1537005214
+I0
+I29
+S'client'
+p0
+S', IJW (203, 144), EHV (17, 246)'
+p1
+tp2
+.(I1537005214
+I0
+I30
+S'client'
+p0
+S'\n\nAirport: AES\n'
+p1
+tp2
+.(I1537005214
+I0
+I31
+S'client'
+p0
+S'Connections: AUE (126, 153)'
+p1
+tp2
+.(I1537005214
+I0
+I32
+S'client'
+p0
+S', FZE (188, 114), ABI (186, 164)'
+p1
+tp2
+.(I1537005214
+I0
+I33
+S'client'
+p0
+S'\n\nAirport: XPB\nConnections: IJW (116, 214)'
+p1
+tp2
+.(I1537005214
+I0
+I34
+S'client'
+p0
+S', NII (33, 111), LHQ (96, 52)'
+p1
+tp2
+.(I1537005214
+I0
+I35
+S'client'
+p0
+S', WGQ (40, 120), EHV (163, 133)'
+p1
+tp2
+.(I1537005214
+I0
+I36
+S'client'
+p0
+S'\n\nAirport: ATN\nConnections: ABI (13, 42)'
+p1
+tp2
+.(I1537005214
+I0
+I37
+S'client'
+p0
+S', EHV (19, 82), AUE (26, 211)'
+p1
+tp2
+.(I1537005214
+I0
+I38
+S'client'
+p0
+S', IJW (175, 240), CCH (129, 62)'
+p1
+tp2
+.(I1537005214
+I0
+I39
+S'client'
+p0
+S'\n\nAirport: LHQ\n'
+p1
+tp2
+.(I1537005214
+I0
+I40
+S'client'
+p0
+S'Connections: XPB (241, 80), FZE (38, 51), FYH (31, 220)'
+p1
+tp2
+.(I1537005214
+I0
+I41
+S'client'
+p0
+S', WGQ (179, 234), AES (161, 122)'
+p1
+tp2
+.(I1537005214
+I0
+I42
+S'client'
+p0
+S', QPX (24, 148)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I43
+S'client'
+p0
+S'Airport: AUE\nConnections: LHQ (17, 107), TKQ (118, 91)'
+p1
+tp2
+.(I1537005214
+I0
+I44
+S'client'
+p0
+S', AES (183, 94)\n\nAirport: IJW\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I45
+S'client'
+p0
+S'FYH (30, 255), CCH (190, 33)'
+p1
+tp2
+.(I1537005214
+I0
+I46
+S'client'
+p0
+S', UDB (170, 0)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I47
+S'client'
+p0
+S'Airport: NII\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I48
+S'client'
+p0
+S'TKQ (76, 183), IJW (37, 98), UDB (160, 187), UAJ (79, 132)'
+p1
+tp2
+.(I1537005214
+I0
+I49
+S'client'
+p0
+S', NII (210, 153), ABI (11, 230)'
+p1
+tp2
+.(I1537005214
+I0
+I50
+S'client'
+p0
+S'\n\nAirport: CCH\n'
+p1
+tp2
+.(I1537005214
+I0
+I51
+S'client'
+p0
+S'Connections: UAJ (154, 81)'
+p1
+tp2
+.(I1537005214
+I0
+I52
+S'client'
+p0
+S', AES (217, 152)\n\nAirport: TKQ\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I53
+S'client'
+p0
+S'UDB (216, 252), TUT (125, 95), XPB (120, 2), AES (218, 8)'
+p1
+tp2
+.(I1537005214
+I0
+I54
+S'client'
+p0
+S', UAJ (24, 217), WGQ (29, 20), CHV (193, 244), EHV (117, 254)'
+p1
+tp2
+.(I1537005214
+I0
+I55
+S'client'
+p0
+S'\n\nAirport: CHV\n'
+p1
+tp2
+.(I1537005214
+I0
+I56
+S'client'
+p0
+S'Connections: AUE (221, 171)'
+p1
+tp2
+.(I1537005214
+I0
+I57
+S'client'
+p0
+S', TKQ (77, 189), WGQ (176, 192), IRH (156, 232), CHV (193, 191), ATN (159, 55), LHQ (121, 138)'
+p1
+tp2
+.(I1537005214
+I0
+I58
+S'client'
+p0
+S', TUT (92, 87)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I59
+S'client'
+p0
+S'Airport: FZE\nConnections: UDB (240, 193), FZE (69, 36)'
+p1
+tp2
+.(I1537005214
+I0
+I60
+S'client'
+p0
+S', IRH (213, 223), WGQ (97, 158)'
+p1
+tp2
+.(I1537005214
+I0
+I61
+S'client'
+p0
+S', CHV (5, 12), LHQ (230, 222), CCH (47, 217), ABI (94, 254)'
+p1
+tp2
+.(I1537005214
+I0
+I62
+S'client'
+p0
+S', FYH (11, 199), TKQ (245, 60)'
+p1
+tp2
+.(I1537005214
+I0
+I63
+S'client'
+p0
+S'\n\nOK\n'
+p1
+tp2
+.(I1537005214
+I0
+I64
+S'server'
+p0
+S'1\n'
+p1
+tp2
+.(I1537005214
+I0
+I65
+S'client'
+p0
+S'Airport: UDB\nConnections: FZE (97, 60), ATN (79, 43)'
+p1
+tp2
+.(I1537005214
+I0
+I66
+S'client'
+p0
+S', EHV (112, 163), LHQ (80, 35)\n\nAirport: TUT\n'
+p1
+tp2
+.(I1537005214
+I0
+I67
+S'client'
+p0
+S'Connections: CCH (229, 37)'
+p1
+tp2
+.(I1537005214
+I0
+I68
+S'client'
+p0
+S', LHQ (238, 175), EHV (141, 17)\n\nAirport: ABI\n'
+p1
+tp2
+.(I1537005214
+I0
+I69
+S'client'
+p0
+S'Connections: UDB (173, 77), TKQ (207, 36), NII (165, 171)'
+p1
+tp2
+.(I1537005214
+I0
+I70
+S'client'
+p0
+S', IJW (99, 213)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I71
+S'client'
+p0
+S'Airport: IRH\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I72
+S'client'
+p0
+S'TKQ (132, 118), FYH (129, 158), WGQ (160, 145), ATN (232, 50)'
+p1
+tp2
+.(I1537005214
+I0
+I73
+S'client'
+p0
+S', LHQ (20, 186), CCH (23, 236)'
+p1
+tp2
+.(I1537005214
+I0
+I74
+S'client'
+p0
+S', UAJ (143, 183)\n\nAirport: EHV\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I75
+S'client'
+p0
+S'FYH (128, 213), IJW (121, 98)'
+p1
+tp2
+.(I1537005214
+I0
+I76
+S'client'
+p0
+S', NII (122, 59), ATN (184, 172), TUT (235, 199), UAJ (67, 245)'
+p1
+tp2
+.(I1537005214
+I0
+I77
+S'client'
+p0
+S', LHQ (92, 134), WGQ (254, 199)'
+p1
+tp2
+.(I1537005214
+I0
+I78
+S'client'
+p0
+S', AES (36, 204), EHV (235, 242)\n\nAirport: FYH\n'
+p1
+tp2
+.(I1537005214
+I0
+I79
+S'client'
+p0
+S'Connections: AES (200, 247)'
+p1
+tp2
+.(I1537005214
+I0
+I80
+S'client'
+p0
+S'\n\nAirport: UAJ\nConnections: TUT (227, 229)'
+p1
+tp2
+.(I1537005214
+I0
+I81
+S'client'
+p0
+S', IJW (154, 247), TKQ (113, 73)'
+p1
+tp2
+.(I1537005214
+I0
+I82
+S'client'
+p0
+S', QPX (102, 146), CHV (155, 40)'
+p1
+tp2
+.(I1537005214
+I0
+I83
+S'client'
+p0
+S', ABI (89, 132), FZE (177, 180), WGQ (168, 168), UAJ (91, 157)'
+p1
+tp2
+.(I1537005214
+I0
+I84
+S'client'
+p0
+S', NII (207, 24)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I85
+S'client'
+p0
+S'Airport: QPX\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I86
+S'client'
+p0
+S'TKQ (221, 204), NII (62, 66)'
+p1
+tp2
+.(I1537005214
+I0
+I87
+S'client'
+p0
+S', LHQ (1, 78), XPB (13, 172), AUE (237, 184), UDB (86, 69)'
+p1
+tp2
+.(I1537005214
+I0
+I88
+S'client'
+p0
+S'\n\nAirport: WGQ\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I89
+S'client'
+p0
+S'NII (186, 160), FYH (229, 44)'
+p1
+tp2
+.(I1537005214
+I0
+I90
+S'client'
+p0
+S', AES (57, 26), ATN (39, 224)'
+p1
+tp2
+.(I1537005214
+I0
+I91
+S'client'
+p0
+S', FZE (79, 193), QPX (170, 123)'
+p1
+tp2
+.(I1537005214
+I0
+I92
+S'client'
+p0
+S', UAJ (220, 177), ABI (198, 51), IJW (203, 144), EHV (17, 246)'
+p1
+tp2
+.(I1537005214
+I0
+I93
+S'client'
+p0
+S'\n\nAirport: AES\n'
+p1
+tp2
+.(I1537005214
+I0
+I94
+S'client'
+p0
+S'Connections: AUE (126, 153)'
+p1
+tp2
+.(I1537005214
+I0
+I95
+S'client'
+p0
+S', FZE (188, 114), ABI (186, 164)'
+p1
+tp2
+.(I1537005214
+I0
+I96
+S'client'
+p0
+S'\n\nAirport: XPB\nConnections: IJW (116, 214)'
+p1
+tp2
+.(I1537005214
+I0
+I97
+S'client'
+p0
+S', NII (33, 111), LHQ (96, 52)'
+p1
+tp2
+.(I1537005214
+I0
+I98
+S'client'
+p0
+S', WGQ (40, 120), EHV (163, 133)'
+p1
+tp2
+.(I1537005214
+I0
+I99
+S'client'
+p0
+S'\n\nAirport: ATN\nConnections: ABI (13, 42)'
+p1
+tp2
+.(I1537005214
+I0
+I100
+S'client'
+p0
+S', EHV (19, 82), AUE (26, 211)'
+p1
+tp2
+.(I1537005214
+I0
+I101
+S'client'
+p0
+S', IJW (175, 240), CCH (129, 62)'
+p1
+tp2
+.(I1537005214
+I0
+I102
+S'client'
+p0
+S'\n\nAirport: LHQ\n'
+p1
+tp2
+.(I1537005214
+I0
+I103
+S'client'
+p0
+S'Connections: XPB (241, 80), FZE (38, 51), FYH (31, 220)'
+p1
+tp2
+.(I1537005214
+I0
+I104
+S'client'
+p0
+S', WGQ (179, 234), AES (161, 122)'
+p1
+tp2
+.(I1537005214
+I0
+I105
+S'client'
+p0
+S', QPX (24, 148)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I106
+S'client'
+p0
+S'Airport: AUE\nConnections: LHQ (17, 107), TKQ (118, 91)'
+p1
+tp2
+.(I1537005214
+I0
+I107
+S'client'
+p0
+S', AES (183, 94)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I108
+S'client'
+p0
+S'Airport: IJW\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I109
+S'client'
+p0
+S'FYH (30, 255), CCH (190, 33)'
+p1
+tp2
+.(I1537005214
+I0
+I110
+S'client'
+p0
+S', UDB (170, 0)\n\nAirport: NII\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I111
+S'client'
+p0
+S'TKQ (76, 183), IJW (37, 98)'
+p1
+tp2
+.(I1537005214
+I0
+I112
+S'client'
+p0
+S', UDB (160, 187), UAJ (79, 132)'
+p1
+tp2
+.(I1537005214
+I0
+I113
+S'client'
+p0
+S', NII (210, 153), ABI (11, 230)\n\nAirport: CCH\n'
+p1
+tp2
+.(I1537005214
+I0
+I114
+S'client'
+p0
+S'Connections: UAJ (154, 81)'
+p1
+tp2
+.(I1537005214
+I0
+I115
+S'client'
+p0
+S', AES (217, 152)\n\nAirport: TKQ\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I116
+S'client'
+p0
+S'UDB (216, 252), TUT (125, 95)'
+p1
+tp2
+.(I1537005214
+I0
+I117
+S'client'
+p0
+S', XPB (120, 2), AES (218, 8)'
+p1
+tp2
+.(I1537005214
+I0
+I118
+S'client'
+p0
+S', UAJ (24, 217), WGQ (29, 20), CHV (193, 244), EHV (117, 254)'
+p1
+tp2
+.(I1537005214
+I0
+I119
+S'client'
+p0
+S'\n\nAirport: CHV\n'
+p1
+tp2
+.(I1537005214
+I0
+I120
+S'client'
+p0
+S'Connections: AUE (221, 171)'
+p1
+tp2
+.(I1537005214
+I0
+I121
+S'client'
+p0
+S', TKQ (77, 189), WGQ (176, 192)'
+p1
+tp2
+.(I1537005214
+I0
+I122
+S'client'
+p0
+S', IRH (156, 232), CHV (193, 191), ATN (159, 55), LHQ (121, 138)'
+p1
+tp2
+.(I1537005214
+I0
+I123
+S'client'
+p0
+S', TUT (92, 87)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I124
+S'client'
+p0
+S'Airport: FZE\nConnections: UDB (240, 193), FZE (69, 36)'
+p1
+tp2
+.(I1537005214
+I0
+I125
+S'client'
+p0
+S', IRH (213, 223), WGQ (97, 158)'
+p1
+tp2
+.(I1537005214
+I0
+I126
+S'client'
+p0
+S', CHV (5, 12), LHQ (230, 222)'
+p1
+tp2
+.(I1537005214
+I0
+I127
+S'client'
+p0
+S', CCH (47, 217), ABI (94, 254)'
+p1
+tp2
+.(I1537005214
+I0
+I128
+S'client'
+p0
+S', FYH (11, 199), TKQ (245, 60)'
+p1
+tp2
+.(I1537005214
+I0
+I129
+S'client'
+p0
+S'\n\nOK\n'
+p1
+tp2
+.(I1537005214
+I0
+I130
+S'server'
+p0
+S'3\n'
+p1
+tp2
+.(I1537005214
+I0
+I131
+S'client'
+p0
+S'Enter airport code for deletion:\n'
+p1
+tp2
+.(I1537005214
+I0
+I132
+S'server'
+p0
+S'ATN\n'
+p1
+tp2
+.(I1537005214
+I0
+I133
+S'client'
+p0
+S'OK\n'
+p1
+tp2
+.(I1537005214
+I0
+I134
+S'server'
+p0
+S'3\n'
+p1
+tp2
+.(I1537005214
+I0
+I135
+S'client'
+p0
+S'Enter airport code for deletion:\n'
+p1
+tp2
+.(I1537005214
+I0
+I136
+S'server'
+p0
+S'CCH\n'
+p1
+tp2
+.(I1537005214
+I0
+I137
+S'client'
+p0
+S'OK\n'
+p1
+tp2
+.(I1537005214
+I0
+I138
+S'server'
+p0
+S'2\n'
+p1
+tp2
+.(I1537005214
+I0
+I139
+S'server'
+p0
+S'CAZ\n'
+p1
+tp2
+.(I1537005214
+I0
+I140
+S'client'
+p0
+S'Enter airport code for connection:\n'
+p1
+tp2
+.(I1537005214
+I0
+I141
+S'server'
+p0
+S'WGQ\n'
+p1
+tp2
+.(I1537005214
+I0
+I142
+S'client'
+p0
+S'Connection cost:\n'
+p1
+tp2
+.(I1537005214
+I0
+I143
+S'server'
+p0
+S'249\n'
+p1
+tp2
+.(I1537005214
+I0
+I144
+S'client'
+p0
+S'Connection duration:\n'
+p1
+tp2
+.(I1537005214
+I0
+I145
+S'server'
+p0
+S'80\n'
+p1
+tp2
+.(I1537005214
+I0
+I146
+S'client'
+p0
+S'Enter airport code for connection:\n'
+p1
+tp2
+.(I1537005214
+I0
+I147
+S'server'
+p0
+S'\n'
+p1
+tp2
+.(I1537005214
+I0
+I148
+S'client'
+p0
+S'OK\n'
+p1
+tp2
+.(I1537005214
+I0
+I149
+S'server'
+p0
+S'2\n'
+p1
+tp2
+.(I1537005214
+I0
+I150
+S'server'
+p0
+S'BPL\n'
+p1
+tp2
+.(I1537005214
+I0
+I151
+S'client'
+p0
+S'Enter airport code for connection:\n'
+p1
+tp2
+.(I1537005214
+I0
+I152
+S'server'
+p0
+S'IRH\n'
+p1
+tp2
+.(I1537005214
+I0
+I153
+S'client'
+p0
+S'Connection cost:\n'
+p1
+tp2
+.(I1537005214
+I0
+I154
+S'server'
+p0
+S'77\n'
+p1
+tp2
+.(I1537005214
+I0
+I155
+S'client'
+p0
+S'Connection duration:\n'
+p1
+tp2
+.(I1537005214
+I0
+I156
+S'server'
+p0
+S'201\n'
+p1
+tp2
+.(I1537005214
+I0
+I157
+S'client'
+p0
+S'Enter airport code for connection:\n'
+p1
+tp2
+.(I1537005214
+I0
+I158
+S'server'
+p0
+S'\n'
+p1
+tp2
+.(I1537005214
+I0
+I159
+S'client'
+p0
+S'OK\n'
+p1
+tp2
+.(I1537005214
+I0
+I160
+S'server'
+p0
+S'1\n'
+p1
+tp2
+.(I1537005214
+I0
+I161
+S'client'
+p0
+S'Airport: UDB\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I162
+S'client'
+p0
+S'FZE (97, 60), EHV (112, 163), LHQ (80, 35)\n\nAirport: TUT\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I163
+S'client'
+p0
+S'LHQ (238, 175), EHV (141, 17)\n\nAirport: ABI\n'
+p1
+tp2
+.(I1537005214
+I0
+I164
+S'client'
+p0
+S'Connections: UDB (173, 77)'
+p1
+tp2
+.(I1537005214
+I0
+I165
+S'client'
+p0
+S', TKQ (207, 36), NII (165, 171), IJW (99, 213)'
+p1
+tp2
+.(I1537005214
+I0
+I166
+S'client'
+p0
+S'\n\nAirport: IRH\n'
+p1
+tp2
+.(I1537005214
+I0
+I167
+S'client'
+p0
+S'Connections: TKQ (132, 118)'
+p1
+tp2
+.(I1537005214
+I0
+I168
+S'client'
+p0
+S', FYH (129, 158), WGQ (160, 145), LHQ (20, 186), UAJ (143, 183)'
+p1
+tp2
+.(I1537005214
+I0
+I169
+S'client'
+p0
+S'\n\nAirport: EHV\n'
+p1
+tp2
+.(I1537005214
+I0
+I170
+S'client'
+p0
+S'Connections: FYH (128, 213), IJW (121, 98), NII (122, 59)'
+p1
+tp2
+.(I1537005214
+I0
+I171
+S'client'
+p0
+S', TUT (235, 199), UAJ (67, 245)'
+p1
+tp2
+.(I1537005214
+I0
+I172
+S'client'
+p0
+S', LHQ (92, 134), WGQ (254, 199)'
+p1
+tp2
+.(I1537005214
+I0
+I173
+S'client'
+p0
+S', AES (36, 204), EHV (235, 242)\n\nAirport: FYH\n'
+p1
+tp2
+.(I1537005214
+I0
+I174
+S'client'
+p0
+S'Connections: AES (200, 247)\n\nAirport: UAJ\n'
+p1
+tp2
+.(I1537005214
+I0
+I175
+S'client'
+p0
+S'Connections: TUT (227, 229)'
+p1
+tp2
+.(I1537005214
+I0
+I176
+S'client'
+p0
+S', IJW (154, 247)'
+p1
+tp2
+.(I1537005214
+I0
+I177
+S'client'
+p0
+S', TKQ (113, 73), QPX (102, 146), CHV (155, 40)'
+p1
+tp2
+.(I1537005214
+I0
+I178
+S'client'
+p0
+S', ABI (89, 132), FZE (177, 180)'
+p1
+tp2
+.(I1537005214
+I0
+I179
+S'client'
+p0
+S', WGQ (168, 168), UAJ (91, 157), NII (207, 24)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I180
+S'client'
+p0
+S'Airport: QPX\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I181
+S'client'
+p0
+S'TKQ (221, 204), NII (62, 66), LHQ (1, 78), XPB (13, 172)'
+p1
+tp2
+.(I1537005214
+I0
+I182
+S'client'
+p0
+S', AUE (237, 184), UDB (86, 69)\n\nAirport: WGQ\n'
+p1
+tp2
+.(I1537005214
+I0
+I183
+S'client'
+p0
+S'Connections: NII (186, 160), FYH (229, 44), AES (57, 26)'
+p1
+tp2
+.(I1537005214
+I0
+I184
+S'client'
+p0
+S', FZE (79, 193), QPX (170, 123)'
+p1
+tp2
+.(I1537005214
+I0
+I185
+S'client'
+p0
+S', UAJ (220, 177), ABI (198, 51)'
+p1
+tp2
+.(I1537005214
+I0
+I186
+S'client'
+p0
+S', IJW (203, 144), EHV (17, 246)'
+p1
+tp2
+.(I1537005214
+I0
+I187
+S'client'
+p0
+S'\n\nAirport: AES\nConnections: AUE (126, 153)'
+p1
+tp2
+.(I1537005214
+I0
+I188
+S'client'
+p0
+S', FZE (188, 114), ABI (186, 164)'
+p1
+tp2
+.(I1537005214
+I0
+I189
+S'client'
+p0
+S'\n\nAirport: XPB\n'
+p1
+tp2
+.(I1537005214
+I0
+I190
+S'client'
+p0
+S'Connections: IJW (116, 214), NII (33, 111), LHQ (96, 52)'
+p1
+tp2
+.(I1537005214
+I0
+I191
+S'client'
+p0
+S', WGQ (40, 120), EHV (163, 133)'
+p1
+tp2
+.(I1537005214
+I0
+I192
+S'client'
+p0
+S'\n\nAirport: LHQ\nConnections: XPB (241, 80)'
+p1
+tp2
+.(I1537005214
+I0
+I193
+S'client'
+p0
+S', FZE (38, 51), FYH (31, 220)'
+p1
+tp2
+.(I1537005214
+I0
+I194
+S'client'
+p0
+S', WGQ (179, 234), AES (161, 122)'
+p1
+tp2
+.(I1537005214
+I0
+I195
+S'client'
+p0
+S', QPX (24, 148)'
+p1
+tp2
+.(I1537005214
+I0
+I196
+S'client'
+p0
+S'\n\nAirport: AUE\n'
+p1
+tp2
+.(I1537005214
+I0
+I197
+S'client'
+p0
+S'Connections: LHQ (17, 107)'
+p1
+tp2
+.(I1537005214
+I0
+I198
+S'client'
+p0
+S', TKQ (118, 91), AES (183, 94)'
+p1
+tp2
+.(I1537005214
+I0
+I199
+S'client'
+p0
+S'\n\nAirport: IJW\n'
+p1
+tp2
+.(I1537005214
+I0
+I200
+S'client'
+p0
+S'Connections: FYH (30, 255), UDB (170, 0)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I201
+S'client'
+p0
+S'Airport: NII\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I202
+S'client'
+p0
+S'TKQ (76, 183), IJW (37, 98), UDB (160, 187), UAJ (79, 132)'
+p1
+tp2
+.(I1537005214
+I0
+I203
+S'client'
+p0
+S', NII (210, 153), ABI (11, 230)'
+p1
+tp2
+.(I1537005214
+I0
+I204
+S'client'
+p0
+S'\n\nAirport: TKQ\n'
+p1
+tp2
+.(I1537005214
+I0
+I205
+S'client'
+p0
+S'Connections: UDB (216, 252), TUT (125, 95), XPB (120, 2)'
+p1
+tp2
+.(I1537005214
+I0
+I206
+S'client'
+p0
+S', AES (218, 8), UAJ (24, 217), WGQ (29, 20), CHV (193, 244)'
+p1
+tp2
+.(I1537005214
+I0
+I207
+S'client'
+p0
+S', EHV (117, 254)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I208
+S'client'
+p0
+S'Airport: CHV\nConnections: AUE (221, 171), TKQ (77, 189)'
+p1
+tp2
+.(I1537005214
+I0
+I209
+S'client'
+p0
+S', WGQ (176, 192), IRH (156, 232)'
+p1
+tp2
+.(I1537005214
+I0
+I210
+S'client'
+p0
+S', CHV (193, 191), LHQ (121, 138), TUT (92, 87)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I211
+S'client'
+p0
+S'Airport: FZE\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I212
+S'client'
+p0
+S'UDB (240, 193), FZE (69, 36)'
+p1
+tp2
+.(I1537005214
+I0
+I213
+S'client'
+p0
+S', IRH (213, 223), WGQ (97, 158), CHV (5, 12), LHQ (230, 222)'
+p1
+tp2
+.(I1537005214
+I0
+I214
+S'client'
+p0
+S', ABI (94, 254), FYH (11, 199)'
+p1
+tp2
+.(I1537005214
+I0
+I215
+S'client'
+p0
+S', TKQ (245, 60)\n\nAirport: CAZ\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I216
+S'client'
+p0
+S'WGQ (249, 80)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I217
+S'client'
+p0
+S'Airport: BPL\nConnections: IRH (77, 201)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I218
+S'client'
+p0
+S'OK\n'
+p1
+tp2
+.(I1537005214
+I0
+I219
+S'server'
+p0
+S'1\n'
+p1
+tp2
+.(I1537005214
+I0
+I220
+S'client'
+p0
+S'Airport: UDB\nConnections: FZE (97, 60), EHV (112, 163)'
+p1
+tp2
+.(I1537005214
+I0
+I221
+S'client'
+p0
+S', LHQ (80, 35)\n\nAirport: TUT\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I222
+S'client'
+p0
+S'LHQ (238, 175), EHV (141, 17)\n\nAirport: ABI\n'
+p1
+tp2
+.(I1537005214
+I0
+I223
+S'client'
+p0
+S'Connections: UDB (173, 77)'
+p1
+tp2
+.(I1537005214
+I0
+I224
+S'client'
+p0
+S', TKQ (207, 36), NII (165, 171), IJW (99, 213)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I225
+S'client'
+p0
+S'Airport: IRH\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I226
+S'client'
+p0
+S'TKQ (132, 118), FYH (129, 158), WGQ (160, 145), LHQ (20, 186)'
+p1
+tp2
+.(I1537005214
+I0
+I227
+S'client'
+p0
+S', UAJ (143, 183)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I228
+S'client'
+p0
+S'Airport: EHV\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I229
+S'client'
+p0
+S'FYH (128, 213), IJW (121, 98), NII (122, 59), TUT (235, 199)'
+p1
+tp2
+.(I1537005214
+I0
+I230
+S'client'
+p0
+S', UAJ (67, 245), LHQ (92, 134)'
+p1
+tp2
+.(I1537005214
+I0
+I231
+S'client'
+p0
+S', WGQ (254, 199), AES (36, 204), EHV (235, 242)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I232
+S'client'
+p0
+S'Airport: FYH\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I233
+S'client'
+p0
+S'AES (200, 247)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I234
+S'client'
+p0
+S'Airport: UAJ\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I235
+S'client'
+p0
+S'TUT (227, 229), IJW (154, 247), TKQ (113, 73), QPX (102, 146)'
+p1
+tp2
+.(I1537005214
+I0
+I236
+S'client'
+p0
+S', CHV (155, 40), ABI (89, 132), FZE (177, 180), WGQ (168, 168)'
+p1
+tp2
+.(I1537005214
+I0
+I237
+S'client'
+p0
+S', UAJ (91, 157), NII (207, 24)'
+p1
+tp2
+.(I1537005214
+I0
+I238
+S'client'
+p0
+S'\n\nAirport: QPX\n'
+p1
+tp2
+.(I1537005214
+I0
+I239
+S'client'
+p0
+S'Connections: TKQ (221, 204)'
+p1
+tp2
+.(I1537005214
+I0
+I240
+S'client'
+p0
+S', NII (62, 66), LHQ (1, 78), XPB (13, 172), AUE (237, 184)'
+p1
+tp2
+.(I1537005214
+I0
+I241
+S'client'
+p0
+S', UDB (86, 69)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I242
+S'client'
+p0
+S'Airport: WGQ\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I243
+S'client'
+p0
+S'NII (186, 160), FYH (229, 44)'
+p1
+tp2
+.(I1537005214
+I0
+I244
+S'client'
+p0
+S', AES (57, 26), FZE (79, 193)'
+p1
+tp2
+.(I1537005214
+I0
+I245
+S'client'
+p0
+S', QPX (170, 123), UAJ (220, 177), ABI (198, 51), IJW (203, 144)'
+p1
+tp2
+.(I1537005214
+I0
+I246
+S'client'
+p0
+S', EHV (17, 246)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I247
+S'client'
+p0
+S'Airport: AES\nConnections: AUE (126, 153), FZE (188, 114)'
+p1
+tp2
+.(I1537005214
+I0
+I248
+S'client'
+p0
+S', ABI (186, 164)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I249
+S'client'
+p0
+S'Airport: XPB\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I250
+S'client'
+p0
+S'IJW (116, 214), NII (33, 111), LHQ (96, 52), WGQ (40, 120)'
+p1
+tp2
+.(I1537005214
+I0
+I251
+S'client'
+p0
+S', EHV (163, 133)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I252
+S'client'
+p0
+S'Airport: LHQ\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I253
+S'client'
+p0
+S'XPB (241, 80), FZE (38, 51)'
+p1
+tp2
+.(I1537005214
+I0
+I254
+S'client'
+p0
+S', FYH (31, 220), WGQ (179, 234)'
+p1
+tp2
+.(I1537005214
+I0
+I255
+S'client'
+p0
+S', AES (161, 122), QPX (24, 148)\n\nAirport: AUE\n'
+p1
+tp2
+.(I1537005214
+I0
+I256
+S'client'
+p0
+S'Connections: LHQ (17, 107)'
+p1
+tp2
+.(I1537005214
+I0
+I257
+S'client'
+p0
+S', TKQ (118, 91), AES (183, 94)\n\nAirport: IJW\n'
+p1
+tp2
+.(I1537005214
+I0
+I258
+S'client'
+p0
+S'Connections: FYH (30, 255)'
+p1
+tp2
+.(I1537005214
+I0
+I259
+S'client'
+p0
+S', UDB (170, 0)\n\n'
+p1
+tp2
+.(I1537005214
+I0
+I260
+S'client'
+p0
+S'Airport: NII\nConnections: '
+p1
+tp2
+.(I1537005214
+I0
+I261
+S'client'
+p0
+S'TKQ (76, 183), IJW (37, 98)'
+p1
+tp2
+.(I1537005214
+I0
+I262
+S'client'
+p0
+S', UDB (160, 187), UAJ (79, 132), NII (210, 153), ABI (11, 230)'
+p1
+tp2
+.(I1537005214
+I0
+I263
+S'client'
+p0
+S'\n\nAirport: TKQ\n'
+p1
+tp2
+.(I1537005214
+I0
+I264
+S'client'
+p0
+S'Connections: UDB (216, 252), TUT (125, 95), XPB (120, 2)'
+p1
+tp2
+.(I1537005214
+I0
+I265
+S'client'
+p0
+S', AES (218, 8), UAJ (24, 217)'
+p1
+tp2
+.(I1537005214
+I0
+I266
+S'client'
+p0
+S', WGQ (29, 20), CHV (193, 244), EHV (117, 254)'
+p1
+tp2
+.(I1537005214
+I0
+I267
+S'client'
+p0
+S'\n\nAirport: CHV\n'
+p1
+tp2
+.(I1537005214
+I0
+I268
+S'client'
+p0
+S'Connections: '
+p1
+tp2
+.(I1537005214
+I0
+I269
+S'client'
+p0
+S'AUE (221, 171)'
+p1
+tp2
+.(I1537005214
+I0
+I270
+S'client'
+p0
+S', TKQ (77, 189), WGQ (176, 192)'
+p1
+tp2
+.(I1537005214
+I0
+I271
+S'client'
+p0
+S', IRH (156, 232), CHV (193, 191)'
+p1
+tp2
+.(I1537005214
+I0
+I272
+S'client'
+p0
+S', LHQ (121, 138), TUT (92, 87)\n\nAirport: FZE\n'
+p1
+tp2
+.(I1537005214
+I0
+I273
+S'client'
+p0
+S'Connections: UDB (240, 193)'
+p1
+tp2
+.(I1537005214
+I0
+I274
+S'client'
+p0
+S', FZE (69, 36), IRH (213, 223)'
+p1
+tp2
+.(I1537005214
+I0
+I275
+S'client'
+p0
+S', WGQ (97, 158), CHV (5, 12)'
+p1
+tp2
+.(I1537005214
+I0
+I276
+S'client'
+p0
+S', LHQ (230, 222), ABI (94, 254)'
+p1
+tp2
+.(I1537005214
+I0
+I277
+S'client'
+p0
+S', FYH (11, 199), TKQ (245, 60)\n\nAirport: CAZ\n'
+p1
+tp2
+.(I1537005214
+I0
+I278
+S'client'
+p0
+S'Connections: WGQ (249, 80)\n\nAirport: BPL\n'
+p1
+tp2
+.(I1537005214
+I16
+I171
+S'server'
+p0
+S'YJB\n'
+p1
+tp2
+.(I1537005214
+I30
+I894
+S'client'
+p0
+S'OK\n'
+p1
+tp2
+.(I1537005214
+I42
+I290
+S'client'
+p0
+S'\nNO RESULTS\n'
+p1
+tp2
+.(I1537005214
+I74
+I846
+S'client'
+p0
+S', IYI (11, 20)\n\n'
+p1
+tp2
+.(I1537005214
+I92
+I586
+S'server'
+p0
+S'15/RNN/COX\n'
+p1
+tp2
+.(I1537005214
+I121
+I61
+S'client'
+p0
+S'OK\n'
+p1
+tp2
+.(I1537005214
+I128
+I275
+S'client'
+p0
+S'GZP (5, 245), MUL (58, 124)'
+p1
+tp2
+.(I1537005214
+I136
+I120
+S'client'
+p0
+S'Airport: LJX\nConnections: BWX (90, 39)\n\n'
+p1
+tp2
+.(I1537005214
+I145
+I294
+S'client'
+p0
+S'Enter airport code for connection:\n'
+p1
+tp2
+.(I1537005214
+I152
+I467
+S'server'
+p0
+S'ZCF\n'
+p1
+tp2
+.(I1537005214
+I198
+I8
+S'client'
+p0
+S'Enter airport code for connection:\n'
+p1
+tp2
+.(I1537005214
+I228
+I649
+S'server'
+p0
+S'1\n'
+p1
+tp2
+.(I1537005214
+I233
+I625
+S'client'
+p0
+S'CKP (175, 4)\n\n'
+p1
+tp2
+.(I1537005214
+I263
+I65
+S'server'
+p0
+S'2\n'
+p1
+tp2
+.(I1537005214
+I291
+I240
+S'client'
+p0
+S', KHT (76, 79), DZP (190, 180)'
+p1
+tp2
+.(I1537005214
+I305
+I1322
+S'client'
+p0
+S'IPP (61, 192)\n\n'
+p1
+tp2
+.(I1537005214
+I309
+I429
+S'client'
+p0
+S'Connections: EQS (120, 37)'
+p1
+tp2
+.(I1537005214
+I325
+I611
+S'server'
+p0
+S'XTK\n'
+p1
+tp2
+.(I1537005214
+I341
+I569
+S'client'
+p0
+S', LWY (194, 162), CUP (167, 112)'
+p1
+tp2
+.(I1537005214
+I346
+I265
+S'server'
+p0
+S'CTM\n'
+p1
+tp2
+.(I1537005214
+I398
+I307
+S'client'
+p0
+S'Connection duration:\n'
+p1
+tp2
+.(I1537005214
+I420
+I362
+S'client'
+p0
+S'RYX (221, 63)\n\n'
+p1
+tp2
+.(I1537005214
+I440
+I163
+S'client'
+p0
+S'Connections: OYX (126, 72)'
+p1
+tp2
+.(I1537005214
+I455
+I461
+S'client'
+p0
+S'Connection cost:\n'
+p1
+tp2
+.(I1537005214
+I479
+I34
+S'client'
+p0
+S'QUR (159, 234)\n\n'
+p1
+tp2
+.(I1537005214
+I492
+I135
+S'client'
+p0
+S'\n\nAirport: QRQ\n'
+p1
+tp2
+.(I1537005214
+I528
+I827
+S'client'
+p0
+S'\n\n'
+p1
+tp2
+.(I1537005214
+I552
+I16
+S'client'
+p0
+S', YET (189, 14)\n\n'
+p1
+tp2
+.(I1537005214
+I570
+I281
+S'server'
+p0
+S'3\n'
+p1
+tp2
+.(I1537005214
+I592
+I920
+S'client'
+p0
+S'\n\nAirport: FGQ\n'
+p1
+tp2
+.(I1537005214
+I618
+I6
+S'server'
+p0
+S'1\n'
+p1
+tp2
+.(I1537005214
+I629
+I160
+S'server'
+p0
+S'167\n'
+p1
+tp2
+.(I1537005214
+I633
+I946
+S'server'
+p0
+S'FDX\n'
+p1
+tp2
+.(I1537005214
+I638
+I219
+S'client'
+p0
+S'OK\n'
+p1
+tp2
+.(I1537005214
+I647
+I15
+S'client'
+p0
+S'Enter airport code for connection:\n'
+p1
+tp2
+.(I1537005214
+I662
+I863
+S'client'
+p0
+S'Connections: ZNN (109, 210)'
+p1
+tp2
+.(I1537005214
+I670
+I371
+S'client'
+p0
+S'Connection duration:\n'
+p1
+tp2
+.(I1537005214
+I676
+I1437
+S'client'
+p0
+S'Airport: ZXX\nConnections: '
+p1
+tp2
+.(I1537005214
+I687
+I273
+S'client'
+p0
+S'Connection duration:\n'
+p1
+tp2
+.(I1537005214
+I698
+I39
+S'client'
+p0
+S', YAQ (36, 205), HMQ (217, 121)\n\nAirport: DMC\n'
+p1
+tp2
+.(I1537005214
+I711
+I1417
+S'server'
+p0
+S'191\n'
+p1
+tp2
+.(I1537005214
+I739
+I124
+S'client'
+p0
+S'Connections: GMD (24, 228)'
+p1
+tp2
+.(I1537005214
+I745
+I217
+S'server'
+p0
+S'FDP\n'
+p1
+tp2
+.(I1537005214
+I781
+I167
+S'client'
+p0
+S', ISV (66, 83), CNZ (221, 0)'
+p1
+tp2
+.(I1537005214
+I789
+I214
+S'client'
+p0
+S'EJE (73, 130)\n\n'
+p1
+tp2
+.(I1537005214
+I790
+I1227
+S'client'
+p0
+S'\n\nAirport: JLZ\nConnections: VJK (196, 29)'
+p1
+tp2
+.(I1537005214
+I802
+I259
+S'server'
+p0
+S'2\n'
+p1
+tp2
+.(I1537005214
+I817
+I177
+S'client'
+p0
+S'Connections: DXF (206, 149), HHJ (198, 246), TNF (238, 96)'
+p1
+tp2
+.(I1537005214
+I837
+I31
+S'client'
+p0
+S'Enter airport code for connection:\n'
+p1
+tp2
+.(I3047240366
+I822
+I12
+S'server'
+p0
+S'JylFV3Ed318tdrwQhCT\n'
+p1
+tp2
+.(I1537005214
+I873
+I11
+S'server'
+p0
+S'EMU\n'
+p1
+tp2
+.(I1537005214
+I923
+I489
+S'server'
+p0
+S'1\n'
+p1
+tp2
+.(I1537005214
+I942
+I26
+S'server'
+p0
+S'3\n'
+p1
+tp2
+.(I3047240366
+I975
+I2
+S'server'
+p0
+S'2tF\n'
+p1
+tp2
+.(I1537005214
+I977
+I1264
+S'server'
+p0
+S'1\n'
+p1
+tp2
+.(I1537005214
+I1011
+I152
+S'client'
+p0
+S', PPY (189, 16), GRT (246, 204)'
+p1
+tp2
+.
