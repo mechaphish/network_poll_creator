@@ -17,7 +17,7 @@ class PollData(object):
     RANDOM_SEED_LENGTH = 96
     # flag, which indicates whether the msg ids are expected to be sequential
     # This will result in ignoring messages which are out of order.
-    SEQUENTIAL_MSG_ID = True
+    SEQUENTIAL_MSG_ID = False
 
     def __init__(self, cs_id, connection_id):
         self.cs_id = cs_id
